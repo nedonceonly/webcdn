@@ -15,9 +15,6 @@ DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-# HBO
-
-
 #飞流直播
 DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,icntv.xyz
@@ -44,3 +41,13 @@ DOMAIN-SUFFIX,viu.tv
 #TaiWanGood
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
+## Hamivideo
+DOMAIN-SUFFIX,cdn.hinet.net
+## 4GTV & Hamivideo
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
