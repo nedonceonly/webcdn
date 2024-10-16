@@ -4215,6 +4215,7 @@ IP-CIDR,183.172.0.0/14,no-resolve
 IP-CIDR,183.184.0.0/13,no-resolve
 IP-CIDR,183.192.0.0/10,no-resolve
 IP-CIDR,185.109.236.0/24,no-resolve
+IP-CIDR,183.207.0.0/16,no-resolve
 IP-CIDR,185.216.118.0/26,no-resolve
 IP-CIDR,185.216.118.64/27,no-resolve
 IP-CIDR,185.216.118.112/28,no-resolve
@@ -6217,8 +6218,10 @@ DOMAIN-SUFFIX,zjcdn.com
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,yangshipin.cn
 
 # ChinaNet
 DOMAIN-SUFFIX,21cn.com
@@ -6265,6 +6268,11 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qy.net
+
+# ITV
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
 
 # JD
 DOMAIN-SUFFIX,360buy.com
@@ -6633,6 +6641,7 @@ DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mogu.com
 DOMAIN-SUFFIX,mogucdn.com
@@ -6725,6 +6734,7 @@ DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xslb.net
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,yach.me
+DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,yihaodianimg.com
