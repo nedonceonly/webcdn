@@ -5600,9 +5600,5 @@ DOMAIN-SUFFIX,52.mk
 DOMAIN-SUFFIX,cnix-gov-cn.com
 DOMAIN-SUFFIX,decline.hitun.io
 
-# XXX
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,jable.tv
-
 # Tunein
 DOMAIN-SUFFIX,tunein.com
