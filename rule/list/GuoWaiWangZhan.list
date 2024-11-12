@@ -1091,6 +1091,7 @@ DOMAIN-SUFFIX,cn.com
 DOMAIN-SUFFIX,cn6.eu
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
+DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnex.org.cn
@@ -1835,6 +1836,7 @@ DOMAIN-SUFFIX,frontlinedefenders.org
 DOMAIN-SUFFIX,frootvpn.com
 DOMAIN-SUFFIX,fscked.org
 DOMAIN-SUFFIX,fsurf.com
+DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftp1.biz
 DOMAIN-SUFFIX,ftpserver.biz
@@ -3215,6 +3217,7 @@ DOMAIN-SUFFIX,mingpaovan.com
 DOMAIN-SUFFIX,mingshengbao.com
 DOMAIN-SUFFIX,minhhue.net
 DOMAIN-SUFFIX,miniforum.org
+DOMAIN-SUFFIX,mining.com
 DOMAIN-SUFFIX,ministrybooks.org
 DOMAIN-SUFFIX,minzhuhua.net
 DOMAIN-SUFFIX,minzhuzhanxian.com
@@ -4020,6 +4023,7 @@ DOMAIN-SUFFIX,rfi.my
 DOMAIN-SUFFIX,rightbtc.com
 DOMAIN-SUFFIX,rightster.com
 DOMAIN-SUFFIX,rigpa.org
+DOMAIN-SUFFIX,rigzone.com
 DOMAIN-SUFFIX,riku.me
 DOMAIN-SUFFIX,rileyguide.com
 DOMAIN-SUFFIX,riseup.net
@@ -4805,7 +4809,7 @@ DOMAIN-SUFFIX,tuitwit.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tumutanzi.com
 DOMAIN-SUFFIX,tumview.com
-DOMAIN-SUFFIX,tunein.com
+DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,tunnelbear.com
 DOMAIN-SUFFIX,tunnelr.com
 DOMAIN-SUFFIX,tuo8.blue
