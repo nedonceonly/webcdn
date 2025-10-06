@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,profile.line-scdn.net
 DOMAIN,kktv-theater.kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
-# LiTV
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,litv.tv
 # MyTVSuper
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
